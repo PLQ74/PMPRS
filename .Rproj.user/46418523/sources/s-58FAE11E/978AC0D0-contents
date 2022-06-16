@@ -1,0 +1,13 @@
+Package: PMPRS
+Type: Package
+Title: Population-based mean polygenic risk score
+Version: 0.1.0
+Author: person("Simin He","Liuqing Peng","Jiarui Jing",
+email="eonian0124@163.com", role=c("aut","cre"))
+Maintainer: Simin He <eonian0124@163.com>
+Description: Calculate the Population-based mean polygenic risk score
+and the risk score ratio
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

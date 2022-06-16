@@ -1,0 +1,7 @@
+devtools::load_all()
+pmprs_x(0.6,0.6)
+devtools::document()
+usethis::use_mit_license()
+usethis::use_package("Rmisc", type = "Imports",
+                     min_version = "1.5.1")
+devtools::check()
